@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# keyfiles
+github.txt 
+
+google-api-client_secret.apps.googleusercontent.com
+
 # C extensions
 *.so
 
